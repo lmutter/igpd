@@ -1,6 +1,6 @@
 # igpd
-Instagram private video download extension for Chrome.
-![Instagram private video download extension for Chrome.](https://lh3.googleusercontent.com/RcuRTIX7-npjii50Z9rpTitIS4Uxe0gRSgOnlSMsGhHqDDjKZpWlhzvBzMSSTjJYv4Cv5gGmWQ=w640-h400-e365)
+Video Download helper for Chrome.
+![Video Download helper for Chrome.](https://lh3.googleusercontent.com/RcuRTIX7-npjii50Z9rpTitIS4Uxe0gRSgOnlSMsGhHqDDjKZpWlhzvBzMSSTjJYv4Cv5gGmWQ=w640-h400-e365)
 
 Available on Chrome Web Store: https://chrome.google.com/webstore/detail/cjekgdjobneckkkcngpmljkkohigmhkn/publish-accepted?authuser=1&hl=en
 
