@@ -1,6 +1,8 @@
 # igpd
 Instagram private video download extension for Chrome.
 
+Available on Chrome Web Store: https://chrome.google.com/webstore/detail/cjekgdjobneckkkcngpmljkkohigmhkn/publish-accepted?authuser=1&hl=en
+
 Allows user to directly access the link of video displayed on private instagram pages. Currently this is done by displaying a box under the extension icon containing the direct link to the video.
 
 To use, open the instagram video, refresh the page, and click on the extension box. Copy the entire text within the new box and paste this in your address bar OR right click on highlighted text and click "Go to https//scontent...". Note: You must refresh the page to generate a new link on every video.
