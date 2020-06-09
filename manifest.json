@@ -1,13 +1,13 @@
 {
   "name": "Instagram Private Video Downloader",
-  "version": "1.1",
+  "version": "1.10",
   "manifest_version": 2,
   "description": "Download both private and public videos on instagram.",
   "browser_action": {
     "default_icon": "images/igpd128.png",
     "default_popup": "popup.html"
   },
-  "permissions": ["<all_urls>"],
+  "permissions": ["activeTab", "https://instagram.com/*"],
   "icons": {
     "16": "images/igpd16.png",
     "32": "images/igpd32.png",
