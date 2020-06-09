@@ -7,6 +7,7 @@ function replaceAmp(toReplace){
 }
 
 function stringToLink(fullText){
+	if(fullText.search("video_url") == -1) return "Error: Script cannot be called outside of Instagram video page.";
 	var start = fullText.search("video_url") + 12;
 	var end = fullText.search("video_view_count") - 3;
 	fullText = fullText.substring(start, end);
